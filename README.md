@@ -1,15 +1,9 @@
-# my-pet-favor
-#### {A pet, or companion animal, is an animal kept primarily for a person's company or entertainment rather than as a working animal,
-livestock or a laboratory animal. Popular pets are often considered to have attractive appearances,
-intelligence and relatable personalities, but some pets may be taken in on an altruistic basis (such as a stray animal) 
-and accepted by the owner regardless of these characteristics.This website is just a sample of a pet website.It describes my personal pet.
-
-}, {03-12-2020}
+# my-pet-favorito
+#### {A pet, or companion animal, is an animal kept primarily for a person's company or entertainment rather than as a working animal,livestock or a laboratory animal. Popular pets are often considered to have attractive appearances,intelligence and relatable personalities, but some pets may be taken in on an altruistic basis (such as a stray animal) and accepted by the owner regardless of these characteristics.This website is just a sample of a pet website.It describes my personal pet.}, {03-12-2020}
 #### By **{}Daisy Rop
 Kosh Komen
 Lillian Claire**
-## Description
-{This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
+## Description{It is widely believed among the public, and among many scientists, that pets probably bring mental and physical health benefits to their owners; a 1987 NIH statement cautiously argued that existing data was "suggestive" of a significant benefit. A recent dissent comes from a 2017 RAND study, which found that at least in the case of children, having a pet per se failed to improve physical or mental health by a statistically significant amount; instead, the study found children who were already prone to being healthy were more likely to get pets in the first place. Unfortunately, conducting long-term randomized trials to settle the issue would be costly or infeasible.}
 ## Setup/Installation Requirements
 * This is a great place
 * to list setup instructions
